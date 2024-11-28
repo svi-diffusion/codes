@@ -6,7 +6,7 @@
 
 Our method demonstrates robustness against various combinations of spatio-temporal degradations, achieving state-of-the-art reconstructions.
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://solving-video-inverse.github.io/main/)
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://svi-diffusion.github.io)
 
 ## Abstract
 
