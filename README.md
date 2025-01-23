@@ -42,10 +42,16 @@ Here, we provide full preprocessed numpy files used in this work.
 
 [Preprocessed 2017 DAVIS train/val dataset](https://drive.google.com/file/d/1sP2mkf7TTc3LmIYZktNV1xifDS20WJ-7/view?usp=sharing).
 
-## Github Stars
+## 📝 Citation
+If you find our method useful, please cite as below or leave a star to this repository.
 
-Please leave a star to this repository if you find our method useful :)
-
-
-> [!note]
-> This work is currently in the preprint stage, and there may be some changes to the code.
+```
+@inproceedings{
+kwon2025solving,
+title={Solving Video Inverse Problems Using Image Diffusion Models},
+author={Kwon, Taesung and Ye, Jong Chul},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=TRWxFUzK9K}
+}
+```
