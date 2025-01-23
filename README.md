@@ -47,11 +47,11 @@ If you find our method useful, please cite as below or leave a star to this repo
 
 ```
 @inproceedings{
-kwon2025solving,
-title={Solving Video Inverse Problems Using Image Diffusion Models},
-author={Kwon, Taesung and Ye, Jong Chul},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=TRWxFUzK9K}
+    kwon2025solving,
+    title={Solving Video Inverse Problems Using Image Diffusion Models},
+    author={Kwon, Taesung and Ye, Jong Chul},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=TRWxFUzK9K}
 }
 ```
