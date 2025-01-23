@@ -1,5 +1,7 @@
 # Solving Video Inverse Problems Using Image Diffusion Models
 
+This repository is the official implementation of [Solving Video Inverse Problems Using Image Diffusion Models](https://arxiv.org/abs/2409.02574).
+
 <p align="center" width="100%">
     <img src='./sample/main_fig.png' width='99%'>
 </p>
