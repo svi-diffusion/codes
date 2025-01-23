@@ -7,6 +7,7 @@
 Our method demonstrates robustness against various combinations of spatio-temporal degradations, achieving state-of-the-art reconstructions.
 
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://svi-diffusion.github.io)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.02574-b31b1b.svg)](https://arxiv.org/abs/2409.02574)
 
 ## Abstract
 
