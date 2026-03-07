@@ -1,4 +1,4 @@
-# Solving Video Inverse Problems Using Image Diffusion Models
+# [ICLR 2025] Solving Video Inverse Problems Using Image Diffusion Models
 
 This repository is the official implementation of [Solving Video Inverse Problems Using Image Diffusion Models](https://arxiv.org/abs/2409.02574).
 
